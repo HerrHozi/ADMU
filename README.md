@@ -1,6 +1,8 @@
 # ADMU
 Active Directory Mass Updater
 
+With this little tool, you will be able to make mass updates within seconds.
+
 ## Quick Start Guide
 Open a PowerShell terminal from the Windows command line with 'powershell.exe -exec bypass'.
 
