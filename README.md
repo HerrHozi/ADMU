@@ -20,4 +20,5 @@ The following command will use the userlist at users.txt and try to authenticate
 Invoke-DomainPasswordSpray -UserList users.txt -Domain domain-name -PasswordList passlist.txt -OutFile sprayed-creds.txt
 ```
 ## Herr Hozi
-just a template
+
+HerrHozi!
